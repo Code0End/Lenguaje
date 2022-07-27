@@ -185,7 +185,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Lluvia
+  m_text: Aguacate
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -248,7 +248,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -49.126648, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -363,9 +363,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 903d235ba70b5cf4ba631f9c6573bf1e, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 0df6558a09ac60346b35d0fc7d3b9635, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -511,7 +511,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Tree
+  m_text: Te
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -689,9 +689,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 86cf948f33d1bac459b262a71e51b43c, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 156b26980ce33a140bc9725c8b2b1717, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -812,16 +812,16 @@ MonoBehaviour:
   elemento3: {fileID: 1304789338}
   elemento4: {fileID: 677318475}
   objetivos:
-  - {fileID: 1290460392153309246, guid: 36e49f5d768d5c94fb14617e0624942b, type: 3}
-  - {fileID: 2052572412762277429, guid: b7ae3f494b7782147934e7e0abc6e381, type: 3}
-  - {fileID: 1012593133846546615, guid: d86ea34ee87cc7d45a0afb0c76b10e1f, type: 3}
-  - {fileID: 8114028464688984735, guid: 6e7922a61e721ce44a7654b5dbe1290c, type: 3}
-  - {fileID: 179178831477238474, guid: d9aac0a1d4ceb9846afc8d5819ce2135, type: 3}
-  - {fileID: 5096037748529254185, guid: 02baa37703b39d84fb448f4069b28332, type: 3}
-  - {fileID: 3488079621359504762, guid: df66ce228aecbe74587935c92698181a, type: 3}
-  - {fileID: 2422536227727626149, guid: 73b45af807c65d5448a3104acb835e3b, type: 3}
-  - {fileID: 3453305572375779782, guid: 8060b867ae3621c4b80fce25dad2cdcc, type: 3}
-  - {fileID: 892576911153997001, guid: aa17fd0d8ee8ce24eadbd8970f3acd00, type: 3}
+  - {fileID: 8707083007876724963, guid: 36e49f5d768d5c94fb14617e0624942b, type: 3}
+  - {fileID: 1380962210112805149, guid: b7ae3f494b7782147934e7e0abc6e381, type: 3}
+  - {fileID: 5632442940615666087, guid: d86ea34ee87cc7d45a0afb0c76b10e1f, type: 3}
+  - {fileID: 8144223767992847146, guid: 6e7922a61e721ce44a7654b5dbe1290c, type: 3}
+  - {fileID: 1038129363141977929, guid: d9aac0a1d4ceb9846afc8d5819ce2135, type: 3}
+  - {fileID: 6541063276995871951, guid: 02baa37703b39d84fb448f4069b28332, type: 3}
+  - {fileID: 6478259448130469403, guid: df66ce228aecbe74587935c92698181a, type: 3}
+  - {fileID: 4771079274517143109, guid: 73b45af807c65d5448a3104acb835e3b, type: 3}
+  - {fileID: 1832232214418204548, guid: 8060b867ae3621c4b80fce25dad2cdcc, type: 3}
+  - {fileID: 3892650211255789622, guid: aa17fd0d8ee8ce24eadbd8970f3acd00, type: 3}
   y_spawneados: []
   actuales: []
   canvas: {fileID: 173467182}
@@ -1160,7 +1160,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Vaca
+  m_text: Camisa
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1223,7 +1223,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -32.24237, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1338,9 +1338,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 8b7485e07b89efb448e12bad3e19b434, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 87501286ad6571342977d8068f986f09, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -1702,8 +1702,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -117.72632, y: 0}
-  m_SizeDelta: {x: 101.6249, y: 47.842}
+  m_AnchoredPosition: {x: -129.5055, y: 0}
+  m_SizeDelta: {x: 125.1832, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &241141623
 MonoBehaviour:
@@ -1725,7 +1725,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Pasto
+  m_text: "Arco\xEDris"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -1788,7 +1788,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0.3536377, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -1903,9 +1903,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 6fbc0bc3ce38e524bb8cd3faa1f84499, type: 3}
+  m_audioClip: {fileID: 8300000, guid: f890ec3904fac284b9e9e0408d67e35d, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2094,7 +2094,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: -20.83374, z: -26.62091, w: 0}
+  m_margin: {x: 0, y: 0.47891235, z: -1.2097168, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2312,8 +2312,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: -220, y: 25}
-  m_SizeDelta: {x: 200, y: 50}
+  m_AnchoredPosition: {x: -156.4719, y: 53.2802}
+  m_SizeDelta: {x: 327.0562, y: 63.9352}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!1 &259508250
 GameObject:
@@ -2346,7 +2346,7 @@ RectTransform:
   m_GameObject: {fileID: 259508250}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalScale: {x: 0.74367, y: 0.74367, z: 0.74367}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 803623798}
@@ -2354,8 +2354,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.6379395, y: 0}
-  m_SizeDelta: {x: 83.5329, y: 47.842}
+  m_AnchoredPosition: {x: 3.7, y: -7.8}
+  m_SizeDelta: {x: 166.2067, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &259508252
 MonoBehaviour:
@@ -2377,7 +2377,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sun
+  m_text: Huay'talab
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -2404,8 +2404,8 @@ MonoBehaviour:
   m_faceColor:
     serializedVersion: 2
     rgba: 4294967295
-  m_fontSize: 36
-  m_fontSizeBase: 36
+  m_fontSize: 30
+  m_fontSizeBase: 30
   m_fontWeight: 400
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
@@ -2440,7 +2440,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -0.3765869, y: 0, z: -3.871338, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -2555,9 +2555,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 1686c14cc67a8cb409fce67618f45fb6, type: 3}
+  m_audioClip: {fileID: 8300000, guid: d6fbbf68603792a4992ab87246c744c1, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -2863,7 +2863,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Hen
+  m_text: ja'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3041,9 +3041,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 7b573f95d2dcba6439e8944f01d3aa59, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 30ace3a28a792c64f969e25c662a20d2, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3166,8 +3166,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -112.63794, y: 0}
-  m_SizeDelta: {x: 91.4481, y: 47.842}
+  m_AnchoredPosition: {x: -123.69504, y: 0}
+  m_SizeDelta: {x: 113.5623, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &307298369
 MonoBehaviour:
@@ -3189,7 +3189,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Luna
+  m_text: "\xC1guila"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3252,7 +3252,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0.14926147, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -3367,9 +3367,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 6739d4cfc32d7034eb9e940be9f3cc3a, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b64f105c6b712d348825e104b628973b, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3492,8 +3492,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -112.63794, y: 0}
-  m_SizeDelta: {x: 91.4481, y: 47.842}
+  m_AnchoredPosition: {x: -151.2331, y: 0}
+  m_SizeDelta: {x: 97.896, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &325407751
 MonoBehaviour:
@@ -3515,7 +3515,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Flor
+  m_text: Abeja
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3693,9 +3693,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: c6b12075f8cc2b0468ea98802d4ba3c3, type: 3}
+  m_audioClip: {fileID: 8300000, guid: e8cc4d495629702458590ff5b1b07906, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -3818,8 +3818,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -112.63794, y: 0}
-  m_SizeDelta: {x: 91.4481, y: 47.842}
+  m_AnchoredPosition: {x: -133.48792, y: 0}
+  m_SizeDelta: {x: 133.1481, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &372846463
 MonoBehaviour:
@@ -3841,7 +3841,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Roca
+  m_text: Caballo
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -3904,7 +3904,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0.6864624, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4019,9 +4019,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 59a35ab3d1a8f7f42813b6d615e89b43, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b9b300f454c2e3146a876743202fc057, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -4206,7 +4206,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Rain
+  m_text: Uh'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4384,9 +4384,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 9bcede4dc2ff7c14499237594c67e987, type: 3}
+  m_audioClip: {fileID: 8300000, guid: aaa907eba02af0c4ab754e8532f4d7b5, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -4582,7 +4582,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 7a75d95565a875045b2f623b076b6b88, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 17dd0397ecb69e54a813ed56a1b2b697, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -4639,8 +4639,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.6379395, y: 0}
-  m_SizeDelta: {x: 83.5329, y: 47.842}
+  m_AnchoredPosition: {x: -11.2294, y: 0}
+  m_SizeDelta: {x: 98.7159, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &509634957
 MonoBehaviour:
@@ -4662,7 +4662,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Rock
+  m_text: Bitsim
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -4725,7 +4725,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -1.5120239, y: 0, z: 0.10913086, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -4840,9 +4840,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 74bdbb7adddaa344f8a3a2d732c14ea5, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 3d33c46f56b6bb14fbe7b8de883faf56, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -5088,8 +5088,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -112.63794, y: 0}
-  m_SizeDelta: {x: 91.4481, y: 47.842}
+  m_AnchoredPosition: {x: -123.011536, y: 0}
+  m_SizeDelta: {x: 112.1954, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &605127085
 MonoBehaviour:
@@ -5111,7 +5111,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Perro
+  m_text: Ardilla
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5174,7 +5174,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0.6776123, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -5289,9 +5289,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 3bac1ba098814bc489aa23e85f9f2fd5, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 53520cac6ec07da48b0d463dcfa6d606, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -5414,8 +5414,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -11.5532, y: 0}
-  m_SizeDelta: {x: 99.3633, y: 47.842}
+  m_AnchoredPosition: {x: -8.3407, y: 0}
+  m_SizeDelta: {x: 105.7883, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &652957404
 MonoBehaviour:
@@ -5437,7 +5437,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Grass
+  m_text: Pi'chal
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -5500,7 +5500,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -1.1173706, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -5615,9 +5615,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 5c88f62ce893bbc47816110d39e22889, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 4a768b0f9518c454390814572c05abd3, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -6076,7 +6076,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -112.63794, y: 0}
+  m_AnchoredPosition: {x: -133, y: 0}
   m_SizeDelta: {x: 91.4481, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &804578480
@@ -6099,7 +6099,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Sol
+  m_text: Cama
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -6162,7 +6162,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -10.164429, y: 0, z: 0, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -6277,7 +6277,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 026939152535a874ea3bb2a8f630ff09, type: 3}
+  m_audioClip: {fileID: 8300000, guid: c39537f29ddf47248ab6f5d9f04ce106, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.55
   m_Pitch: 1
@@ -6641,7 +6641,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3b8f5de4f88995b4bb259211bf0dd3e9, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 10c0f269e40c72547b98a370759e879b, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -6732,7 +6732,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: b989d70a012570c46a4015f59f68c58c, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 98088ef9035ef2248b993050a6870275, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -7029,9 +7029,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 231bf7239b5022146ba0ce50fa9393b7, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 51d842354e070744f967eb503885797b, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -7229,7 +7229,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: -20.669983, y: -35.164978}
+  m_AnchoredPosition: {x: -20.669983, y: 30}
   m_SizeDelta: {x: 200, y: 50}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1064035876
@@ -7252,7 +7252,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Aprender!
+  m_text: Aprender Huasteco!
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7382,8 +7382,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -17.2069, y: 0}
-  m_SizeDelta: {x: 110.6709, y: 47.842}
+  m_AnchoredPosition: {x: -18.852, y: 0}
+  m_SizeDelta: {x: 154.43, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1067741273
 MonoBehaviour:
@@ -7405,7 +7405,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Flower
+  m_text: Ts'apsam
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -7583,7 +7583,7 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: fdad8559244868b48a419d3484f27a58, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 5f24ae9181ba650449c05400e30b8137, type: 3}
   m_PlayOnAwake: 0
   m_Volume: 0.55
   m_Pitch: 1
@@ -7933,7 +7933,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 3faad27a0e5828f4694012de2d630993, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 9f8b7ffbf3f5a61459d7225e720885e7, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8667,7 +8667,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 779ae2d72e97ecb478f07886c60c8b87, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 46566f90d2a99f141a4a2080c71d9b0c, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -8921,7 +8921,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Moon
+  m_text: "'T\xEDu"
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9099,9 +9099,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 59bf7c3e705a53e4ea78aa26a4b788da, type: 3}
+  m_audioClip: {fileID: 8300000, guid: 7b5e24f6d8d1d7c45b91f3b7e8190dc4, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -9224,8 +9224,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.6379395, y: 0}
-  m_SizeDelta: {x: 83.5329, y: 47.842}
+  m_AnchoredPosition: {x: 4, y: 0}
+  m_SizeDelta: {x: 121.13, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1672260304
 MonoBehaviour:
@@ -9247,7 +9247,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Cow
+  m_text: '''Sheket'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -9310,7 +9310,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: 0, y: 0, z: -2.9854126, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -9425,9 +9425,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: 793e285995f39fe4984b8398d3c1f1bd, type: 3}
+  m_audioClip: {fileID: 8300000, guid: ee474d4d711126e4c8142059acefbf59, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -9623,7 +9623,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ba58aa2a5e7dbd249ba42d7f577eed3f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 5c7e9a29f82ea9d478046db0128d7410, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10229,7 +10229,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Gallina
+  m_text: Agua
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10407,9 +10407,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: dc214a1a897648840a7c402ea9dec1f4, type: 3}
+  m_audioClip: {fileID: 8300000, guid: b13487abd2ca8624ca14b55a44c8b2a5, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -10657,7 +10657,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: ec1a72ea3f4ea8a42b809b4e7f1ad6a4, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 1d1ee0bee9d7567438877989aa879120, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10748,7 +10748,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 9836db17e49a31446b098ea08c532638, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 29551d1a8ea6b0b4bbd872d89b5737af, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -10805,8 +10805,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -3.6379395, y: 0}
-  m_SizeDelta: {x: 83.5329, y: 47.842}
+  m_AnchoredPosition: {x: -3.8232, y: 0}
+  m_SizeDelta: {x: 117.9881, y: 47.842}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2064386930
 MonoBehaviour:
@@ -10828,7 +10828,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: Dog
+  m_text: Tuk'um
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
   m_sharedMaterial: {fileID: 2180264, guid: 8f586378b4e144a9851e7b34d9b748ee, type: 2}
@@ -10891,7 +10891,7 @@ MonoBehaviour:
   m_VertexBufferAutoSizeReduction: 0
   m_useMaxVisibleDescender: 1
   m_pageToDisplay: 1
-  m_margin: {x: 0, y: 0, z: 0, w: 0}
+  m_margin: {x: -0.44970703, y: 0, z: -0.8399048, w: 0}
   m_isUsingLegacyAnimationComponent: 0
   m_isVolumetricText: 0
   m_hasFontAssetChanged: 0
@@ -11006,9 +11006,9 @@ AudioSource:
   m_Enabled: 1
   serializedVersion: 4
   OutputAudioMixerGroup: {fileID: 0}
-  m_audioClip: {fileID: 8300000, guid: bec23ea9940a309499b7c0dc37c70eb7, type: 3}
+  m_audioClip: {fileID: 8300000, guid: bf52f34bc19be1d49ad760f41657e2eb, type: 3}
   m_PlayOnAwake: 0
-  m_Volume: 0.55
+  m_Volume: 1
   m_Pitch: 1
   Loop: 0
   Mute: 0
@@ -11165,7 +11165,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 712c4ce7c6f993c4ba1cedba3ddf9f2e, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 8e3832b80ea3b8a45bf0f36c69862119, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
